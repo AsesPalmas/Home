@@ -1,0 +1,46 @@
+    1. <!DOCTYPE html>
+    2. <html>
+    3. <body 
+    4. <p1 style=background:yellow></p1>
+    5. <h1 style=color:red>Serviços e Produtos da empresa X</h1>
+    6. Agora você terá a possibilidade de escolher o que melhor lhe atende:</p1>
+    7. <form action="/action_page.php" id="form1">
+    8.   <label style=color:yellow;background:black for="fname">Serviço:</label>
+    9.    <select id="serviços" name="serviços">
+    10.   <option value="Cabelereiro">Cabelereiro</option>
+    11.   <option value="Massoterapia">Massoterapia</option>
+    12.   <option value="Manicure">Manicure</option>
+    13.   <option value="Pedicure">Pedicure</option>
+    14. </select>
+    15.   <input type="submit" value="Envie"></br></br></br>
+    16.  </form>
+    17. <p style=color:black;background:yellow>Ou escolher um de nossos produtos:</p>
+    18. <label style=color:yellow;background:black for="lname">Produto:</label>
+    19. <select id="produtos" name="produtos" size="4" multiple>
+    20.   <option value="Caixa de decoração - R$25,00">Caixa de decoração - R$25,00</option>
+    21.   <option value="Pacote de roscas - R$20,00">Pacote de roscas - R$20,00</option>
+    22.   <option value="T-Shirts - R$45,00">T-Shirts - R$45,00</option>
+    23. </select></br>
+    24.  <input type="submit" value="Envie"></br></br></br>
+    25. <p1 style=color:black;background:yellow> Agora nos ajude dando sugestões de serviços e produtos para oferecer:<form>
+    26.   <input type="radio" id="Saúde e Beleza" name="fav_language" value="Saúde e Beleza">
+    27.   <label for="Saúde e Beleza">Saúde e Beleza</label><br>
+    28.   <input type="radio" id="Alimentícios" name="fav_language" value="Alimentícios">
+    29.   <label for="Alimentícios">Alimentícios</label><br>
+    30.    <input type="radio" id="Cursos" name="fav_language" value="Cursos">
+    31.   <label for="Cursos">Cursos</label>
+    32. </form> 
+    33.  <input type="submit" value="Envie">
+    34.  </form></br>
+    35.  </br>
+    36.  </br>
+    37.  <p1> Não te atendeu?</p1>
+    38.  <form action="/action_page.php">
+    39.   <label for="fname">Mande sua sugestão de Serviço:</label><br>
+    40.   <input type="text" id="fname" name="fname" size="50"><br>
+    41.   <label for="pin">Mande sua sugestão de Produto:</label><br>
+    42.   <input type="text" id="pin" name="pin" maxlength="50" size="50"><br>
+    43.   <input type="submit" value="Submit">
+    44. </form>
+    45. </body>
+    46. </html>
