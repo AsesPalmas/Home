@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+
+<style>
+
+table, th, td {
+
+border:solid black;
+
+}
+
+</style>
+
+<body style="background-color:pink">
+
+
+
+
+<h2 style="background-color:green"> Loja - Profissionais da Associação</h2>
+
+
+
+
+<table style="width:50%">
+
+<tr>
+
+<th style="background-color:blue">Nome</th>
+
+<th style="background-color:yellow">Serviço</th>
+
+<th style="background-color:red">Telefone</th>
+
+</tr>
+
+<tr>
+
+<td>Alfredo Ruiz</td>
+
+<td>Padeiro</td>
+
+<td> 63 99191-9191</td>
+
+</tr>
+
+<tr>
+
+<td>Maria Assis</td>
+
+<td>Empacotadora</td>
+
+<td>63 99292-9292</td>
+
+</tr>
+
+<tr>
+
+<td>Mirella Santos</td>
+
+<td>Contadora</td>
+
+<td>63 99393-9393</td>
+
+</table>
+
+
+
+
+<p style="color:red">Veja conhecer nosso local de funcionamento:</p>
+
+<img <img src="img_chania.jpg" alt="Flowers in Chania">
+
+<br>
+
+<p1 style="background-color:Brown">Agora vamos conhecer mais dos serviços:</p1>
+
+<table style="background-color:orange">
+
+<tr>
+
+<th>Tempo na Associação</th>
+
+<th colspan="2">Maria Assis</th>
+
+<th>Salário</th>
+
+<tr>
+
+<td>2 anos e 3 meses</td>
+
+<td>9h às 13h</td>
+
+<td>Especialista em Brindes</td>
+
+<td>2.835,00</td>
+
+</tr>
+
+<tr>
+
+<th>Tempo na Associação</th>
+
+<th colspan="2">Alfredo Ruiz </th>
+
+<th>Salário</th>
+
+<tr>
+
+<td>3 anos e 4 meses</td>
+
+<td>8h às 12h</td>
+
+<td>Especialista em Bolos</td>
+
+<td>4.235,00</td>
+
+</tr>
+
+<th>Tempo na Associação</th>
+
+<th colspan="2">Mirella Santos </th>
+
+<th>Salário</th>
+
+<tr>
+
+<td>4 anos e 9 meses</td>
+
+<td>14h às 18h</td>
+
+<td>Especialista em Questões Trabalistas</td>
+
+<td>4.835,00</td>
+
+</tr>
+
+<tr>
+
+<th rowspan="2">Tempo de Atuação da Associação</th>
+
+<td colspan="3">Desde janeiro de 2019</td>
+
+</tr>
+
+<tr>
+
+<td colspan="3">Data atual 03 de setembro e 2025</td>
+
+</tr>
+
+</table>
+
+<a style="background-color:yellow" href="https://www.ifto.edu.br">Clique aqui para entrar no Site para mais informações</a>
